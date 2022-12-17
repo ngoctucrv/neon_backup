@@ -159,7 +159,7 @@ $('#downloadImage').click(function() {
     });
 });
 
-var bg = ['image/bgr.jpg', 'image/bgr1.jpg'];
+var bg = ['image/bg.jpg', 'image/bg1.jpg'];
 var bgActive = 0;
 
 setInterval(() => {
