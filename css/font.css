@@ -1,0 +1,639 @@
+@font-face {
+    font-family: Absolute;
+    src: url("../font/Absolute.ttf");
+    font-weight: 300;
+}
+
+.Absolute {
+    font-family: "Absolute";
+}
+
+@font-face {
+    font-family: Alexa;
+    src: url("../font/Alexa.ttf");
+    font-weight: 300;
+}
+
+.Alexa {
+    font-family: "Alexa";
+}
+
+@font-face {
+    font-family: Almost;
+    src: url("../font/Almost.ttf");
+    font-weight: 300;
+}
+
+.Almost {
+    font-family: "Almost";
+}
+
+@font-face {
+    font-family: Alumim;
+    src: url("../font/Alumim.ttf");
+    font-weight: 300;
+}
+
+.Alumim {
+    font-family: "Alumim";
+}
+
+@font-face {
+    font-family: Amanda;
+    src: url("../font/Amanda.ttf");
+    font-weight: 300;
+}
+
+.Amanda {
+    font-family: "Amanda";
+}
+
+@font-face {
+    font-family: Amichan;
+    src: url("../font/Amichan.otf");
+    font-weight: 300;
+}
+
+.Amichan {
+    font-family: "Amichan";
+}
+
+@font-face {
+    font-family: Amsterd;
+    src: url("../font/Amsterd.ttf");
+    font-weight: 300;
+}
+
+.Amsterd {
+    font-family: "Amsterd";
+}
+
+@font-face {
+    font-family: Baladewa;
+    src: url("../font/Baladewa.otf");
+    font-weight: 300;
+}
+
+.Baladewa {
+    font-family: "Baladewa";
+}
+
+@font-face {
+    font-family: Barcelona;
+    src: url("../font/Barcelona.ttf");
+    font-weight: 300;
+}
+
+.Barcelona {
+    font-family: "Barcelona";
+}
+
+@font-face {
+    font-family: Bayview;
+    src: url("../font/Bayview.ttf");
+    font-weight: 300;
+}
+
+.Bayview {
+    font-family: "Bayview";
+}
+
+@font-face {
+    font-family: Beachfront;
+    src: url("../font/Beachfront.ttf");
+    font-weight: 300;
+}
+
+.Beachfront {
+    font-family: "Beachfront";
+}
+
+@font-face {
+    font-family: BertyScript;
+    src: url("../font/BertyScript.otf");
+    font-weight: 300;
+}
+
+.BertyScript {
+    font-family: "BertyScript";
+}
+
+@font-face {
+    font-family: BetterGrade;
+    src: url("../font/BetterGrade.ttf");
+    font-weight: 300;
+}
+
+.BetterGrade {
+    font-family: "BetterGrade";
+}
+
+@font-face {
+    font-family: BluesMal;
+    src: url("../font/BluesMal.ttf");
+    font-weight: 300;
+}
+
+.BluesMal {
+    font-family: "BluesMal";
+}
+
+@font-face {
+    font-family: Brighita;
+    src: url("../font/Brighita.otf");
+    font-weight: 300;
+}
+
+.Brighita {
+    font-family: "Brighita";
+}
+
+@font-face {
+    font-family: Brightwoods;
+    src: url("../font/Brightwoods.ttf");
+    font-weight: 300;
+}
+
+.Brightwoods {
+    font-family: "Brightwoods";
+}
+
+@font-face {
+    font-family: Buryland;
+    src: url("../font/Buryland.ttf");
+    font-weight: 300;
+}
+
+.Buryland {
+    font-family: "Buryland";
+}
+
+@font-face {
+    font-family: Capetown;
+    src: url("../font/Capetown.otf");
+    font-weight: 300;
+}
+
+.Capetown {
+    font-family: "Capetown";
+}
+
+@font-face {
+    font-family: Chelsea;
+    src: url("../font/Chelsea.ttf");
+    font-weight: 300;
+}
+
+.Chelsea {
+    font-family: "Chelsea";
+}
+
+@font-face {
+    font-family: Christmas;
+    src: url("../font/Christmas.otf");
+    font-weight: 300;
+}
+
+.Christmas {
+    font-family: "Christmas";
+}
+
+@font-face {
+    font-family: CityStreetwear;
+    src: url("../font/CityStreetwear.ttf");
+    font-weight: 300;
+}
+
+.CityStreetwear {
+    font-family: "CityStreetwear";
+}
+
+@font-face {
+    font-family: Cretina;
+    src: url("../font/Cretina.ttf");
+    font-weight: 300;
+}
+
+.Cretina {
+    font-family: "Cretina";
+}
+
+@font-face {
+    font-family: Diolitha;
+    src: url("../font/Diolitha.ttf");
+    font-weight: 300;
+}
+
+.Diolitha {
+    font-family: "Diolitha";
+}
+
+@font-face {
+    font-family: Elliana;
+    src: url("../font/Elliana.otf");
+    font-weight: 300;
+}
+
+.Elliana {
+    font-family: "Elliana";
+}
+
+@font-face {
+    font-family: Freespirit;
+    src: url("../font/Freespirit.ttf");
+    font-weight: 300;
+}
+
+.Freespirit {
+    font-family: "Freespirit";
+}
+
+@font-face {
+    font-family: Gustatory;
+    src: url("../font/Gustatory.ttf");
+    font-weight: 300;
+}
+
+.Gustatory {
+    font-family: "Gustatory";
+}
+
+@font-face {
+    font-family: Handsta;
+    src: url("../font/Handsta.tff");
+    font-weight: 300;
+}
+
+.Handsta {
+    font-family: "Handsta";
+}
+
+@font-face {
+    font-family: ITCKRIST;
+    src: url("../font/ITCKRIST.TTF");
+    font-weight: 300;
+}
+
+.ITCKRIST {
+    font-family: "ITCKRIST";
+}
+
+@font-face {
+    font-family: Jokaretto;
+    src: url("../font/Jokaretto\ 400.otf");
+    font-weight: 300;
+}
+
+.Jokaretto {
+    font-family: "Jokaretto";
+}
+
+@font-face {
+    font-family: Lumen;
+    src: url("../font/Lumen-Full.ttf");
+    font-weight: 300;
+}
+
+.Lumen {
+    font-family: "Lumen";
+}
+
+@font-face {
+    font-family: LumenScript;
+    src: url("../font/60s\ Pop.ttf");
+    font-weight: 300;
+}
+
+.LumenScript {
+    font-family: "LumenScript";
+}
+
+@font-face {
+    font-family: Malinavsky1;
+    src: url("../font/Codystar-Light.ttf");
+    font-weight: 300;
+}
+
+.Malinavsky1 {
+    font-family: "Malinavsky1";
+}
+
+@font-face {
+    font-family: Malinavsky2;
+    src: url("../font/DISCO1__.TTF");
+    font-weight: 300;
+}
+
+.Malinavsky2 {
+    font-family: "Malinavsky2";
+}
+
+@font-face {
+    font-family: Mango;
+    src: url("../font/Mango.ttf");
+    font-weight: 300;
+}
+
+.Mango {
+    font-family: "Mango";
+}
+
+@font-face {
+    font-family: Mango1;
+    src: url("../font/neon_pixel-7.ttf");
+    font-weight: 300;
+}
+
+.Mango1 {
+    font-family: "Mango1";
+}
+
+@font-face {
+    font-family: Marsha;
+    src: url("../font/Marsha.otf");
+    font-weight: 300;
+}
+
+.Marsha {
+    font-family: "Marsha";
+}
+
+@font-face {
+    font-family: Monaco;
+    src: url("../font/Mango\ Regular\ 900.otf");
+    font-weight: 300;
+}
+
+.Monaco {
+    font-family: "Monaco";
+}
+
+@font-face {
+    font-family: Neon;
+    src: url("../font/neon_pixel-7.ttf");
+    font-weight: 300;
+}
+
+.Neon {
+    font-family: "Neon";
+}
+
+@font-face {
+    font-family: NeonGlow;
+    src: url("../font/Tonight.ttf");
+    font-weight: 300;
+}
+
+.NeonGlow {
+    font-family: "NeonGlow";
+}
+
+@font-face {
+    font-family: Neonscript;
+    src: url("../font/Warnes-Regular.ttf");
+    font-weight: 300;
+}
+
+.Neonscript {
+    font-family: "Neonscript";
+}
+
+@font-face {
+    font-family: Neontrace;
+    src: url("../font/Flottflott.ttf");
+    font-weight: 300;
+}
+
+.Neontrace {
+    font-family: "Neontrace";
+}
+
+@font-face {
+    font-family: NeoTokyo;
+    src: url("../font/Neon\ Future.ttf");
+    font-weight: 300;
+}
+
+.NeoTokyo {
+    font-family: "NeoTokyo";
+}
+
+@font-face {
+    font-family: Nevada;
+    src: url("../font/Rubber.ttf");
+    font-weight: 300;
+}
+
+.Nevada {
+    font-family: "Nevada";
+}
+
+@font-face {
+    font-family: Northshore;
+    src: url("../font/Picadilly.ttf");
+    font-weight: 300;
+}
+
+.Northshore {
+    font-family: "Northshore";
+}
+
+@font-face {
+    font-family: Owbeirak;
+    src: url("../font/Plasma01.ttf");
+    font-weight: 300;
+}
+
+.Owbeirak {
+    font-family: "Owbeirak";
+}
+
+@font-face {
+    font-family: Rafreshline;
+    src: url("../font/IRONLOUNGE.TTF");
+    font-weight: 300;
+}
+
+.Rafreshline {
+    font-family: "Rafreshline";
+}
+
+@font-face {
+    font-family: Rindu;
+    src: url("../font/Neons_demo.otf");
+    font-weight: 300;
+}
+
+.Rindu {
+    font-family: "Rindu";
+}
+
+@font-face {
+    font-family: Rocket;
+    src: url("../font/She-Stole-the-Night.ttf");
+    font-weight: 300;
+}
+
+.Rocket {
+    font-family: "Rocket";
+}
+
+@font-face {
+    font-family: Royalty;
+    src: url("../font/Neon\ 2\ News.ttf");
+    font-weight: 300;
+}
+
+.Royalty {
+    font-family: "Royalty";
+}
+
+@font-face {
+    font-family: SallynaCattaly;
+    src: url("../font/Newsense.otf");
+    font-weight: 300;
+}
+
+.SallynaCattaly {
+    font-family: "SallynaCattaly";
+}
+
+@font-face {
+    font-family: SciFi;
+    src: url("../font/Chicago.ttf");
+    font-weight: 300;
+}
+
+.SciFi {
+    font-family: "SciFi";
+}
+
+@font-face {
+    font-family: Shoelaces;
+    src: url("../font/Chicago3D.ttf");
+    font-weight: 300;
+}
+
+.Shoelaces {
+    font-family: "Shoelaces";
+}
+
+@font-face {
+    font-family: Shutter;
+    src: url("../font/Veselka\ 4F.ttf");
+    font-weight: 300;
+}
+
+.Shutter {
+    font-family: "Shutter";
+}
+
+@font-face {
+    font-family: Signature;
+    src: url("../font/Icklips_.ttf");
+    font-weight: 300;
+}
+
+.Signature {
+    font-family: "Signature";
+}
+
+@font-face {
+    font-family: Smoothy;
+    src: url("../font/KR\ Neon\ Love.ttf");
+    font-weight: 300;
+}
+
+.Smoothy {
+    font-family: "Smoothy";
+}
+
+@font-face {
+    font-family: SoulHarder;
+    src: url("../font/KosanNonCommercial.otf");
+    font-weight: 300;
+}
+
+.SoulHarder {
+    font-family: "SoulHarder";
+}
+
+@font-face {
+    font-family: southampton;
+    src: url("../font/Sunset\ Club\ Free\ Trial.ttf");
+    font-weight: 300;
+}
+
+.southampton {
+    font-family: "southampton";
+}
+
+@font-face {
+    font-family: Thinking;
+    src: url("../font/BPneon.otf");
+    font-weight: 300;
+}
+
+.Thinking {
+    font-family: "Thinking";
+}
+
+@font-face {
+    font-family: Tomatoes;
+    src: url("../font/screaming_neon.ttf");
+    font-weight: 300;
+}
+
+.Tomatoes {
+    font-family: "Tomatoes";
+}
+
+@font-face {
+    font-family: Vintage;
+    src: url("../font/SanRemo.ttf");
+    font-weight: 300;
+}
+
+.Vintage {
+    font-family: "Vintage";
+}
+
+@font-face {
+    font-family: Vntfap01;
+    src: url("../font/SFPlasmatica.ttf");
+    font-weight: 300;
+}
+
+.Vntfap01 {
+    font-family: "Vntfap01";
+}
+
+@font-face {
+    font-family: Wellyon;
+    src: url("../font/NeonBines.ttf");
+    font-weight: 300;
+}
+
+.Wellyon {
+    font-family: "Wellyon";
+}
+
+@font-face {
+    font-family: WinterBlues;
+    src: url("../font/hiero-0924.ttf");
+    font-weight: 300;
+}
+
+.WinterBlues {
+    font-family: "WinterBlues";
+}
+
+@font-face {
+    font-family: WishingWell;
+    src: url("../font/gather.ttf");
+    font-weight: 300;
+}
+
+.WishingWell {
+    font-family: "WishingWell";
+}
