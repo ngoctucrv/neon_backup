@@ -159,10 +159,10 @@ $('#downloadImage').click(function() {
     });
 });
 
-var bg = ['image/bg.jpg', 'image/bg1.jpg'];
-var bgActive = 0;
+var bg = ['image/bgr_green.jpg', 'image/bgr_green.jpg'];
+//var bgActive = 0;
 
 setInterval(() => {
-    bgActive = bgActive === 0 ? 1 : 0;
-    $('#neon').css("background-image", "url('" + bg[bgActive] + "')");
-}, 5000)
+    //bgActive = bgActive === 0 ? 1 : 0;
+    $('#neon').css("background-image", "url(image/bgr_green.jpg)");
+})
